@@ -1,0 +1,22 @@
+[
+    {
+        "_id": "5c9e495a45e5302a1c74fd5b",
+        "typeName": "Compartment",
+        "__v": 0
+    },
+    {
+        "_id": "5c9e495f45e5302a1c74fd5c",
+        "typeName": "Building",
+        "__v": 0
+    },
+    {
+        "_id": "5c9e496345e5302a1c74fd5d",
+        "typeName": "County",
+        "__v": 0
+    },
+    {
+        "_id": "5c9e496745e5302a1c74fd5e",
+        "typeName": "District",
+        "__v": 0
+    }
+]
